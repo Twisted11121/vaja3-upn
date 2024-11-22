@@ -246,5 +246,5 @@ if __name__ == "__main__":
     #my_filter("slika.jpg", intensity=1)
     #merge_images("slike")
     #random_quote("slika.jpg", "quotes.txt")
-    #blur_faces("person.jpg")
+    blur_faces("person.jpg")
     # collage("pot/do/mape")
